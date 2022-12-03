@@ -17,3 +17,8 @@ A complete analysis of the searches are stored in the Analysis.csv file, generat
 - You must delete the content/files in the 'Search' folder after every run.
 
 The program appends to those files, so previous runs will stay there unless it is manually deleted.
+
+### Performance
+
+[Search Algorithm Performance Comparison - Analysis.pdf](https://github.com/gdgiangi/Rush-Hour-State-Space-Search/files/10147098/Search.Algorithm.Performance.Comparison.-.Analysis.pdf)
+
