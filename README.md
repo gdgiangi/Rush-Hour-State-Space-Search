@@ -7,4 +7,4 @@ To get the solution and search path, you must create a directory inside the main
   - Search
   - Solution
   
-The search paths will be stored inside the search folder, and the solutions will be stored in the solution folder. For further documentation please refer to the assignment pdf, as well as the inline documentation inside of the notebook.
+The search paths will be stored inside the search folder, and the solutions will be stored in the solution folder. For further documentation please refer to the deliverables pdf, as well as the inline documentation inside of the notebook.
